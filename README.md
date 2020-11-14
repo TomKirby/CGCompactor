@@ -6,7 +6,7 @@ editing the app.config file allows the following values to be changed:
 ```
   <appSettings>
     <add key="solutionPath" value="C:\PERSONAL\DEV\Codingame\StarterBot"/>
-    <add key="exclusionDirectories" value="obj,TestSrc"/>
+    <add key="exclusionDirectories" value=".vs,obj,TestSrc"/>
   </appSettings>
 ```
 
