@@ -25,8 +25,6 @@ namespace CodingGameCompactor.Service
 
             //Produce Output String
             return OutputGenerator.GenerateSingleFileOutputString(contents);
-
-            return "";
         }
     }
 
